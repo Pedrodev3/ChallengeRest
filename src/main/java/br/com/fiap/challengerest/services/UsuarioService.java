@@ -2,7 +2,6 @@ package br.com.fiap.challengerest.services;
 
 import br.com.fiap.challengerest.model.Usuario;
 import br.com.fiap.challengerest.repositories.UsuarioRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.List;
